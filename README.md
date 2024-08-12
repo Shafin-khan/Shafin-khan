@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Shafin Khan | Data Science Enthusiast</h1>
 <h3 align="center">Solving Real-World Problems with Python, Machine Learning, and Data Analytics</h3>
 
+- 🌱 I’m currently **pursuing an undergraduate degree in Genetic Engineering and Biotechnology**
+
+- 🌱 Digging Into **Data Science & Artificial Intelligence**
+
+- 💬 Ask me about **Data Science, Bioinformatics**
+
 - 📫 How to reach me **shafinif.else@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

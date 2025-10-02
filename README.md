@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Shafin Khan | Data Science Enthusiast</h1>
 <h3 align="center">Solving Real-World Problems with Python, Machine Learning, and Data Analytics</h3>
 
-- 🌱 I’m currently pursuing an undergraduate degree in **Genetic Engineering and Biotechnology**
-
-- 🌱 Digging Into **Data Science & Artificial Intelligence**
+- 🌱 I’m currently pursuing an **MSc** in **Data Science** at **Shahjalal University of Science and Technology (SUST)**
+- 🎓 I’ve completed my **BSc** in **Genetic Engineering and Biotechnology** from **SUST**
+  
+- 🌱 Exploring **Data Science & Artificial Intelligence**
 
 - 💬 Ask me about **Data Science, Bioinformatics**
 
-- 📫 How to reach me **shafinif.else@gmail.com**
+- 📫 How to reach me **shafinai.py@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
